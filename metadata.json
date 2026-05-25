@@ -1,0 +1,6 @@
+{
+  "name": "Pasteleria",
+  "description": "An interactive, polished, and animated landing page and custom cake designer for Pasteleria, an artisanal cafe and bakery specializing in custom cakes, gourmet eggless pastries, snacks, and beverages in Ghaziabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
